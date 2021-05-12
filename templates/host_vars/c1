@@ -1,0 +1,5 @@
+---
+wireguard_address: "10.0.0.2/24"
+wireguard_endpoint: "185.255.91.217"
+ansible_host: "185.255.91.217"
+ansible_python_interpreter: /usr/bin/python3
